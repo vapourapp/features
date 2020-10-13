@@ -16,7 +16,7 @@
 - [ ] **Reviews** - User reviews for games.
 - [ ] **Threads** - User created threads, Game developer threads and threads to knit your sweater.
 
-Things Vapour strives to achieve in all its apps and APIs -
+### Things Vapour strives to achieve in all its apps and APIs -
 1. User experience must feel consistent, fast and fluid.
 2. No resource hogging your computer/device.
 3. Your privacy is paramount.
